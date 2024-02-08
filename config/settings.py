@@ -98,19 +98,7 @@ DATABASES = {
     }
 }
 
-# DATABASES = {
-#     'default': {
-#        'ENGINE': 'django.db.backends.postgresql',
-#         'NAME': 'df01a54chluqa2',
-#         'HOST' :'ec2-3-89-0-52.compute-1.amazonaws.com',
-#         'PORT' : 5432,
-#         'USER' : 'lrvxuwtxokmuff',
-#         'PASSWORD' : '83b4b5882d38e4ad8b6c0f41dcd8e611bb60f18013d91ad88b7e4d0b095aef11'
-#     }
-# }
-# django_heroku.settings(locals())
-# Password validation
-# https://docs.djangoproject.com/en/3.2/ref/settings/#auth-password-validators
+
 
 AUTH_PASSWORD_VALIDATORS = [
     {
